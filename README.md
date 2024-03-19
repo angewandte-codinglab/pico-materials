@@ -19,9 +19,6 @@ Code snippets for the course "A Hackers Toolbox" by [Ulrich Formann](https://ul.
 * ## [w3schools](https://www.w3schools.com/python)
   Python reference & Tutorials
 
-* ## [Picozero](https://picozero.readthedocs.io)
-  Python library for the Pico
-
 * ## [Github Developer Pack](https://education.github.com/pack)
   Collection of free resources for students including domains, coding courses and discounts on hardware
 
@@ -29,4 +26,12 @@ Code snippets for the course "A Hackers Toolbox" by [Ulrich Formann](https://ul.
   Beginner-friendly book on getting started with your Raspberry Pi Pico
 
 * ## [Python Cheat Sheet](https://github.com/ehmatthes/pcc_3e/releases/download/v1.0.0/beginners_python_cheat_sheet_pcc.pdf)
-  A very extensive cheat sheet covering everything you need to get started with python 
+  A very extensive cheat sheet covering everything you need to get started with python
+
+# Packages
+
+* ## [Capacitive Touch](https://github.com/AncientJames/jtouch)
+  Capacitive Touch Library
+
+* ## [Picozero](https://picozero.readthedocs.io)
+  Python library for the Pico
