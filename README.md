@@ -1,6 +1,6 @@
 # Pico Materials
 
-Code snippets for the course "A Hackers Toolbox" by [Ulrich Formann](https://ul.fo)
+Code snippets from the course "A Hackers Toolbox" by [Ulrich Formann](https://ul.fo)
 
 
 ## Getting started
