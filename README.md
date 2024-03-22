@@ -28,6 +28,7 @@ Code snippets for the course "A Hackers Toolbox" by [Ulrich Formann](https://ul.
 * ## [Python Cheat Sheet](https://github.com/ehmatthes/pcc_3e/releases/download/v1.0.0/beginners_python_cheat_sheet_pcc.pdf)
   A very extensive cheat sheet covering everything you need to get started with python
 
+
 # Packages
 
 * ## [Capacitive Touch](https://github.com/AncientJames/jtouch)
@@ -35,3 +36,12 @@ Code snippets for the course "A Hackers Toolbox" by [Ulrich Formann](https://ul.
 
 * ## [Picozero](https://picozero.readthedocs.io)
   Python library for the Pico
+
+
+# Tools
+
+* ## [LED Calculator](https://ledcalculator.net/)
+  Choose the right resistor for your LEDs
+
+* ## [Wokwi](https://wokwi.com/)
+  Pico circut simulation online tool
