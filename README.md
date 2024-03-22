@@ -7,6 +7,8 @@ Code snippets for the course "A Hackers Toolbox" by [Ulrich Formann](https://ul.
 
 1. To get started download & install [Thonny](https://thonny.org/)
 
+![Pico pinout](https://docs.micropython.org/en/latest/_images/pico_pinout.png)
+
 
 # Resources
 
