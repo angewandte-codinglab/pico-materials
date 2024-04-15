@@ -1,6 +1,6 @@
 # Pico Materials
 
-Code snippets for the course "A Hackers Toolbox" by [Ulrich Formann](https://ul.fo)
+Code snippets from the course "A Hackers Toolbox" by [Ulrich Formann](https://ul.fo)
 
 
 ## Getting started
@@ -11,9 +11,6 @@ Code snippets for the course "A Hackers Toolbox" by [Ulrich Formann](https://ul.
 
 
 ## Resources
-
-* [Semaf Electronics](https://electronics.semaf.at)
-  Vienna's local Raspberry Pi Dealer
 
 * [Knobot](http://knobot.net)
   Peter Knobloch's electronic secrets
@@ -47,3 +44,18 @@ Code snippets for the course "A Hackers Toolbox" by [Ulrich Formann](https://ul.
 
 * [Wokwi](https://wokwi.com/)
   Pico circut simulation online tool
+
+
+## Places
+
+* [Semaf Electronics](https://electronics.semaf.at)
+  Vienna's local Raspberry Pi Dealer
+
+* [Codinglab](https://codinglab.uni-ak.ac.at)
+  University Workshop for Coding, Physical Computing, Machine Learning & more
+
+* [Studio Praxistest](https://praxistest.cc/)
+  University Workshop for Electronics, Sound & Interfaces
+
+* [Metalab](https://metalab.at/)
+  Vienna's local Hackerspace
