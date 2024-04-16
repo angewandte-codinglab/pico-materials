@@ -42,6 +42,8 @@ Code snippets from the course "A Hackers Toolbox" by [Ulrich Formann](https://ul
 * [LED Calculator](https://ledcalculator.net/)
   Choose the right resistor for your LEDs
 
+* [Resistor Calculator](https://www.calculator.net/resistor-calculator.html)
+
 * [Wokwi](https://wokwi.com/)
   Pico circut simulation online tool
 
@@ -59,3 +61,6 @@ Code snippets from the course "A Hackers Toolbox" by [Ulrich Formann](https://ul
 
 * [Metalab](https://metalab.at/)
   Vienna's local Hackerspace
+
+* [Mz* Baltazar’s Lab](https://www.mzbaltazarslaboratory.org/welcome/)
+  Collective & feminist hackerspace, focusing on DIY projects on the intersection of arts, technology & feminism
