@@ -27,7 +27,7 @@ Code snippets from the course "A Hackers Toolbox" by [Ulrich Formann](https://ul
 * [Python Cheat Sheet](https://github.com/ehmatthes/pcc_3e/releases/download/v1.0.0/beginners_python_cheat_sheet_pcc.pdf)
   A very extensive cheat sheet covering everything you need to get started with python
 
-* [Awesome Micropython](https://github.com/mcauser/awesome-micropython)
+* [Awesome Micropython](https://awesome-micropython.com/)
   A curated list of awesome MicroPython libraries, frameworks, software and resources.
 
 
