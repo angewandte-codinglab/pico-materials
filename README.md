@@ -67,3 +67,6 @@ Code snippets from the course "A Hackers Toolbox" by [Ulrich Formann](https://ul
 
 * [Mz* Baltazar’s Lab](https://www.mzbaltazarslaboratory.org/welcome/)
   Collective & feminist hackerspace, focusing on DIY projects on the intersection of arts, technology & feminism
+
+* [Optonica](https://www.optonicaled.at/)
+  Vienna's LED Store
