@@ -12,7 +12,7 @@ Code snippets from the course "A Hackers Toolbox" by [Ulrich Formann](https://ul
 
 ## Resources
 
-* [Knobot](http://knobot.net)
+* [Knobot](https://computerstudio.uni-ak.ac.at/knobot/index.html)
   Peter Knobloch's electronic secrets
 
 * [w3schools](https://www.w3schools.com/python)
