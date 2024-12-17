@@ -14,8 +14,8 @@ display = SSD1306_I2C(width, height, i2c, 61)
 x = 0
 y = 0
 
-moveRight = 1
-moveDown  = 1
+moveX = 1
+moveY  = 1
 
 # loop
 while True:
@@ -24,20 +24,20 @@ while True:
     display.show()
     
     # horizontal movement
-    x = x + moveRight
+    x = x + moveX
 
     if x > width - 24:
-        moveRight = -1
+        moveX = -1
     
     if x < 0:
-        moveRight = 1
+        moveX = 1
         
     # vertical movement   
-    y = y + moveDown
+    y = y + moveY
         
     if y > height - 8:
-        moveDown = -1
+        moveY = -1
     
     if y < 0:
-        moveDown = 1
+        moveY = 1
     
