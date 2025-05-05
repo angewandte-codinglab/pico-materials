@@ -30,6 +30,8 @@ Code snippets from the course "A Hackers Toolbox" by [Ulrich Formann](https://ul
 * [Awesome Micropython](https://awesome-micropython.com/)
   A curated list of awesome MicroPython libraries, frameworks, software and resources.
 
+* [Make: Electronics](https://www.electricalconnects.com/free/86-Make%20Electronics%20Second%20Edition%20By%20Charles%20Platt.pdf.pdf)
+
 
 ## Packages
 
@@ -50,11 +52,13 @@ Code snippets from the course "A Hackers Toolbox" by [Ulrich Formann](https://ul
 * [Wokwi](https://wokwi.com/)
   Pico circut simulation online tool
 
+* [Circut Simulation Tool](https://www.falstad.com/circuit/)
 
-## Places
+* [Ohm's Law Calculator](https://ohmslawcalculator.com/ohms-law-calculator)
+  
+* [Voltage Divider Calculator](https://ohmslawcalculator.com/voltage-divider-calculator)
 
-* [Semaf Electronics](https://electronics.semaf.at)
-  Vienna's local Raspberry Pi Dealer
+## Spaces
 
 * [Codinglab](https://codinglab.uni-ak.ac.at)
   University Workshop for Coding, Physical Computing, Machine Learning & more
@@ -68,5 +72,21 @@ Code snippets from the course "A Hackers Toolbox" by [Ulrich Formann](https://ul
 * [Mz* Baltazar’s Lab](https://www.mzbaltazarslaboratory.org/welcome/)
   Collective & feminist hackerspace, focusing on DIY projects on the intersection of arts, technology & feminism
 
+## Shops
+
+* [Semaf Electronics](https://electronics.semaf.at)
+  Vienna's local Raspberry Pi Dealer
+
 * [Optonica](https://www.optonicaled.at/)
   Vienna's LED Store
+
+* [Conrad](https://www.conrad.at/)
+
+* [Berrybase](https://www.berrybase.de/)
+
+* [Reichelt](https://www.reichelt.at/)
+
+* [Digikey](https://www.digikey.at/)
+
+* [Octopart](https://octopart.com/)
+  The electronic part search engine
