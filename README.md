@@ -80,6 +80,9 @@ Code snippets from the course "A Hackers Toolbox" by [Ulrich Formann](https://ul
 * [Optonica](https://www.optonicaled.at/)
   Vienna's LED Store
 
+* [Widhalm Technikshop](https://elektronik-technikshop.webnode.at/)
+  Local electroincs store 
+
 * [Conrad](https://www.conrad.at/)
 
 * [Berrybase](https://www.berrybase.de/)
