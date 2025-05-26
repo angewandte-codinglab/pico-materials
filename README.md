@@ -58,6 +58,7 @@ Code snippets from the course "A Hackers Toolbox" by [Ulrich Formann](https://ul
   
 * [Voltage Divider Calculator](https://ohmslawcalculator.com/voltage-divider-calculator)
 
+
 ## Spaces
 
 * [Codinglab](https://codinglab.uni-ak.ac.at)
@@ -71,6 +72,7 @@ Code snippets from the course "A Hackers Toolbox" by [Ulrich Formann](https://ul
 
 * [Mz* Baltazar’s Lab](https://www.mzbaltazarslaboratory.org/welcome/)
   Collective & feminist hackerspace, focusing on DIY projects on the intersection of arts, technology & feminism
+
 
 ## Shops
 
@@ -93,3 +95,14 @@ Code snippets from the course "A Hackers Toolbox" by [Ulrich Formann](https://ul
 
 * [Octopart](https://octopart.com/)
   The electronic part search engine
+
+
+## Audio
+
+* [Make: Analog Synthesizers](https://gr33nonline.wordpress.com/wp-content/uploads/2018/05/make-analog-synthesizers-may-2013.pdf)
+
+* [Music From Outer Space](https://musicfromouterspace.com/)
+
+* [Look Mom No Computer](https://www.lookmumnocomputer.com/)
+
+* [Moritz Klein](https://www.youtube.com/@MoritzKlein0/videos)
