@@ -1,8 +1,10 @@
-# import
-from machine import SoftI2C
+# Import
+from machine import I2C
 
-# setup
-i2c = SoftI2C(1, 0)
+# Setup
+# Data  is connected to pin 4
+# Clock is connected to pin 5
+i2c = I2C() 
 
-# loop
+# Loop
 print(i2c.scan())
