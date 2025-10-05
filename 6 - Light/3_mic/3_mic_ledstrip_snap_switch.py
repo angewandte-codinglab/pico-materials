@@ -1,6 +1,6 @@
 from machine  import Pin, SPI
 from time     import sleep
-from ledstrip import LEDStrip
+from LEDStrip import LEDStrip
 from random   import randrange
 
 mic = Pin(26, Pin.IN)

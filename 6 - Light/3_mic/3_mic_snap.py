@@ -1,6 +1,6 @@
 from machine import Pin, SPI
 from time import sleep
-from ledstrip import LEDStrip
+from LEDStrip import LEDStrip
 
 mic = Pin(26, Pin.IN)
 

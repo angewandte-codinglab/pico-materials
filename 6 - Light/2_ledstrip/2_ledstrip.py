@@ -1,5 +1,5 @@
 # import
-from ledstrip import LEDStrip
+from LEDStrip import LEDStrip
 from machine  import SPI
 
 # setup
