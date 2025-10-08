@@ -21,7 +21,7 @@ Code snippets from the course "A Hackers Toolbox" by [Ulrich Formann](https://ul
 * [Github Developer Pack](https://education.github.com/pack)
   Collection of free resources for students including domains, coding courses and discounts on hardware
 
-* [Get Started with MicroPython on Raspberry Pi Pico](https://hackspace.raspberrypi.com/books/micropython-pico)
+* [Get Started with MicroPython on Raspberry Pi Pico](https://ia801803.us.archive.org/27/items/rpi-pico-micropython/RPi_PiPico_Digital_v10.pdf)
   Beginner-friendly book on getting started with your Raspberry Pi Pico
 
 * [Python Cheat Sheet](https://github.com/ehmatthes/pcc_3e/releases/download/v1.0.0/beginners_python_cheat_sheet_pcc.pdf)
