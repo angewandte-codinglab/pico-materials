@@ -1,5 +1,5 @@
 # import
-from machine import SoftI2C
+from machine import I2C
 from ssd1306 import SSD1306_I2C
 from time    import sleep
 
@@ -8,7 +8,7 @@ from time    import sleep
 width  = 128
 height = 64
 
-i2c = SoftI2C(1, 0)
+i2c = I2C(1, 0)
 display = SSD1306_I2C(width, height, i2c, 61)
 
 x = 0

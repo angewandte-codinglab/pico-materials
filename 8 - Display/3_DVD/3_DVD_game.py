@@ -1,5 +1,5 @@
 # import
-from machine  import SoftI2C
+from machine  import I2C
 from ssd1306  import SSD1306_I2C
 from picozero import Pot
 
@@ -9,7 +9,7 @@ width  = 128
 height = 64
 
 pot = Pot(26)
-i2c = SoftI2C(1, 0)
+i2c = I2C()
 display = SSD1306_I2C(width, height, i2c, 61)
 
 textWidth = 24
