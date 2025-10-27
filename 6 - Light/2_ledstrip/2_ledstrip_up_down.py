@@ -4,7 +4,7 @@ from machine  import SPI
 from time     import sleep
 
 # setup
-spi = SPI(0, sck=2, mosi=3) # Configure SPI - see note below
+spi = SPI() # Configure SPI - see note below
 leds = LEDStrip(spi, 8)          # Setup LED Strip with 8 LEDs
 
 # loop
